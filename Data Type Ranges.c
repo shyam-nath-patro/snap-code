@@ -1,4 +1,5 @@
-/* In C, every data type has a specific range of values it can store. Write a program to display the minimum and maximum values for the following data types: */
+/* In C, every data type has a specific range of values it can store. 
+Write a program to display the minimum and maximum values for the following data types: */
 
 #include <stdio.h>
 #include <string.h>
